@@ -15,7 +15,7 @@ Framer Motion animated carousel with custom transitions using Next.js & typescri
 - [Tailwind CSS](https://tailwindcss.com/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
-- [Shadcn-UI] (https://github.com/shadcn-ui/ui)
+- [Shadcn-UI](https://github.com/shadcn-ui/ui)
 
 
 ## Getting Started
